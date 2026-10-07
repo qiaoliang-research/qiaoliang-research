@@ -25,7 +25,7 @@ The project includes an executable authority model, an interactive prototype, a 
 > **Research question:**  
 > After a user tells an autonomous system to stop, what can still happen — and how should the system help them know?
 
-*Repository coming soon.*
+[View the AuthorityLens repository](https://github.com/qiaoliang-research/AuthorityLens)
 
 ---
 
