@@ -35,7 +35,7 @@ The project includes an executable authority model, an interactive prototype, a 
 
 My sole-authored, peer-reviewed paper studies whether language models maintain stable decision distributions when the underlying moral dilemma remains fixed but prompt framing changes.
 
-The study uses **KL divergence, Jensen–Shannon divergence, and decision flip rate** across 50 synthetic moral dilemmas.
+The study evaluates **50 synthetic moral dilemmas** using measures including **KL divergence, Jensen–Shannon divergence, and decision flip rate**.
 
 **Publication**
 
@@ -44,6 +44,8 @@ Qiao Liang.
 Review of Resp AI, 2026.
 
 [Read the paper](https://journals.respai.de/review/article/id/20/)
+
+[View the Moral Consistency Variance repository](https://github.com/qiaoliang-research/Moral-Consistency-Variance)
 
 ---
 
@@ -59,6 +61,8 @@ My current interests include:
 - Human Control of Autonomous Systems
 - Usable Security
 - AI Transparency and Contestability
+
+I am particularly interested in systems where a simple visible output or control state may conceal more complex internal behavior, residual capability, uncertainty, or instability.
 
 ---
 
